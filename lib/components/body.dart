@@ -48,7 +48,7 @@ class Body extends StatelessWidget {
                           decoration: InputDecoration(
                             hintText: "Search",
                             hintStyle: TextStyle(
-                              color: kPrimaryColor.withOpacity(0.5),
+                              color: kPrimaryColor.withOpacity(0.55),
                             ),
                             enabledBorder: InputBorder.none,
                             focusedBorder: InputBorder.none,
